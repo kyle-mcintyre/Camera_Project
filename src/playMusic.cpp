@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <irrKlang.h>
 #include <conio.h>
-#include "sounds.h"
+#include "h/sounds.h"
 
 using namespace irrklang;
 

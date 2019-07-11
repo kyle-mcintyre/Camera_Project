@@ -1,4 +1,4 @@
-#include "camera.h"
+#include "h/camera.h"
 #include <iostream>
 #include <librealsense2/rs.hpp>
 

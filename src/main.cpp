@@ -1,11 +1,11 @@
 #include <stdlib.h>
-#include "camera.h"
+#include "h/camera.h"
 #include <librealsense2/rs.hpp> // Include RealSense Cross Platform API
 #include <stdio.h>
 #include <iostream>
 #include <irrKlang.h>
 #include <conio.h>
-#include "sounds.h"
+#include "h/sounds.h"
 
 float getMiddle(rs2::pipeline pipe);
 
